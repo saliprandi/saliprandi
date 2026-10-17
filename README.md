@@ -1,29 +1,15 @@
-# Santiago Ignacio Aliprandi
+# Santiago Aliprandi
 
-**Software Engineer | AI Workflows & Automation**
+**AI Engineer · 18 · San Miguel de Tucumán, Argentina**
 
-San Miguel de Tucumán, Argentina
+I work part-time at [Alitrio](https://alitrio.com), advising companies on AI automations and agent workflows (JavaScript/TypeScript, React, Node.js, OpenAI/Anthropic/MCP). I'm looking for my first full-time software development role.
 
----
-
-Self-taught software engineer focused on web development and AI-driven automation. I work with JavaScript, TypeScript, the MERN stack, Next.js, and Astro. My main interest is building agent workflows, integrating LLM APIs (OpenAI, Anthropic), and automating repetitive tasks.
-
-Looking for a full-time software engineering role where I can apply my skills and keep growing on real projects.
-
-## Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Python
-- **Web:** React, Next.js, Node.js, Express, MongoDB, Astro
-- **AI:** Prompt engineering, agent workflows, OpenAI and Anthropic APIs, MCP
-- **Cloud / DB:** Vercel, Neon (PostgreSQL)
-- **Tools:** Git, GitHub, VS Code, Debian Linux, Playwright, Jira, Scrum
+Before software, I spent almost 2 years at Celumania doing board-level phone repair, front-desk customer service, and assisting in training sessions for hundreds of repair technicians. I went from fixing hardware to automating processes with AI.
 
 ## Projects
 
-- [tech-health](https://github.com/saliprandi/tech-health) — Website for an electromedicine company built with Astro, deployed on GitHub Pages.
-- [proyecto-celular-sueno](https://github.com/saliprandi/proyecto-celular-sueno) — School research project on nighttime phone usage and sleep quality in adolescents.
+- **[tech-health](https://github.com/saliprandi/tech-health)** — service request intake system for an electromedicine company: n8n + PostgreSQL + Cloudflare Tunnel + 5-layer anti-spam validation
+- **[deasinlimites.com](https://deasinlimites.com)** — company website built with Next.js, React and TypeScript
+- **[proyecto-celular-sueno](https://github.com/saliprandi/proyecto-celular-sueno)** — school research project on nighttime phone use and sleep quality
 
-## Connect
-
-- LinkedIn: [in/saliprandi](https://www.linkedin.com/in/saliprandi/)
-- Email: santialiprandi@gmail.com
+[LinkedIn](https://linkedin.com/in/saliprandi) · [CV](https://saliprandi.github.io)
